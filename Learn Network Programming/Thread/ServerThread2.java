@@ -1,14 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author catalin
- */
-public class ServerThread extends Thread
+public class ServerThread2 extends Thread
 {
     public ServerThread(String threadName)
     {
